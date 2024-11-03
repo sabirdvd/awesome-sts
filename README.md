@@ -47,6 +47,7 @@
 | [MixCSE-BERT](https://ojs.aaai.org/index.php/AAAI/article/view/21428) | AAAI 2022 | [link](https://github.com/BDBC-KG-NLP/MixCSE_AAAI2022)
 | [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
 | [RankCSE](https://arxiv.org/pdf/2305.16726.pdf) | ArXiv 26 May 2023| NA | 
+| [SumCSE](https://aclanthology.org/2024.findings-naacl.227.pdf) | NAACL 2024 Findings | [link](https://github.com/raghavlite/SumCSE)
 
 ## LLM 
 
