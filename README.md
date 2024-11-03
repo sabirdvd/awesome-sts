@@ -47,6 +47,12 @@
 | [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
 | [RankCSE](https://arxiv.org/pdf/2305.16726.pdf) | ArXiv 26 May 2023| NA | 
 
+## LLM 
+
+
+| paper | conference |github | 
+|-------|----  |--------|   
+[MultiCSR ](https://aclanthology.org/2024.naacl-long.436.pdf) | NAACL 2024 | [link](https://github.com/Circle-Ming/MultiCSR)
 
 <!--
 ## Getting Probability from Cosine similarity 
