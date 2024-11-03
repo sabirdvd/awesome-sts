@@ -1,12 +1,6 @@
 # Review: Deep Learning for Sentence Semantic Similarity
 
-[![update - 23-Aug-2023](https://img.shields.io/badge/update-4--Aug--2023-2ea44f)](https://)
-<!--
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380)
--->
-<!--
-Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-deep-learning-for-sentence-semantic-similarity-80f4c1030380) for more detail.
---->
+<!-- [![update - 23-Aug-2023](https://img.shields.io/badge/update-4--Aug--2023-2ea44f)](https://) --> 
 
 ## Convolutional Neural Network
 
@@ -53,6 +47,8 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 | [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
 | [RankCSE](https://arxiv.org/pdf/2305.16726.pdf) | ArXiv 26 May 2023| NA | 
 
+
+<!--
 ## Getting Probability from Cosine similarity 
 | paper | conference |github | Colab |
 |-------|----|--------|--------| 
@@ -63,3 +59,5 @@ Please refer to this [medium blog post](https://ahmed-sabir.medium.com/review-de
 
 # Adding new paper
 Please open an issue for adding recent work.
+
+-->
