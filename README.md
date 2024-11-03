@@ -44,6 +44,7 @@
 | [DiffCSE](https://arxiv.org/pdf/2204.10298.pdf) | NAACL 2022 | [link](https://github.com/voidism/DiffCSE) |
 | [TRANS-ENCODER-unsupervised](https://arxiv.org/pdf/2109.13059.pdf) | ICLR 2022 | [link](https://github.com/amzn/trans-encoder) |
 | [InfoCSE](https://arxiv.org/pdf/2210.06432.pdf) | EMNLP 2022 Findings | [link](https://github.com/caskcsg/sentemb/tree/main/InfoCSE) | 
+| [MixCSE-BERT](https://ojs.aaai.org/index.php/AAAI/article/view/21428) | AAAI 2022 | [link](https://github.com/BDBC-KG-NLP/MixCSE_AAAI2022)
 | [Sentence Embeddings from AI Feedback](https://arxiv.org/abs/2305.01918) | ACL 2023 Findings | [link](https://github.com/xiami2019/CLAIF) |
 | [RankCSE](https://arxiv.org/pdf/2305.16726.pdf) | ArXiv 26 May 2023| NA | 
 
