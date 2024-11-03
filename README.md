@@ -5,7 +5,7 @@
 ## Convolutional Neural Network
 
 | paper | conference | github |
-|-------|------|--------|
+|-------|:------:|--------|
 | [Multi-Perspective Sentence Similarity](https://aclanthology.org/D15-1181.pdf) | EMNLP 2015 | NA |
 | [Learning-to-re-rank](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)| SIGIR 2015 | NA |
 | [Decomposition and Composition](https://arxiv.org/pdf/1602.07019.pdf) | COLING 2016 | NA |
@@ -15,7 +15,7 @@
 ## Long Short-Term Memory
 
 | paper |  conference | github |
-|-------|------|--------|
+|-------|:------:|--------|
 | [Manhattan LSTM](https://ojs.aaai.org/index.php/AAAI/article/view/10350)   | AAAI 2016        |   [link](https://github.com/MahmoudWahdan/Siamese-Sentence-Similarity)     |
 | [Bilateral Multi-Perspective Matching](https://arxiv.org/pdf/1702.03814.pdf) | IJCAI 2017 | [link](https://github.com/zhiguowang/BiMPM) |
 | [ELMo](https://arxiv.org/pdf/1802.05365.pdf)  |  NAACL 2018    |    [link](https://github.com/sabirdvd/Review-DL-for-Sentence-Semantic-Similarity/tree/main/ELMo)    |
@@ -25,14 +25,14 @@
 
 ## Transformer
 | paper |  conference | github |
-|-------|------|--------|
+|-------|:------:|--------|
 |[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)|EMNLP 2018 SysDemo | [link](https://github.com/MartinoMensio/spacy-universal-sentence-encoder)
 | [Simple Transformer Distillation](https://dl.acm.org/doi/pdf/10.1145/3539618.3592063) |  SIGIR 2023 | NA |
 
 ## BERT 
 
 | paper | conference |github | 
-|-------|----  |--------|     
+|-------|:----:|--------|     
 | [BERT](https://arxiv.org/abs/1810.04805)  | NAACL 2018 | [link](https://keras.io/examples/nlp/semantic_similarity_with_bert/)   |
 | [Sentence-BERT](https://arxiv.org/pdf/1908.10084.pdf)  | EMNLP 2019 | [link](https://github.com/UKPLab/sentence-transformers)     |
 | [SimCSE-BERT](https://arxiv.org/pdf/2104.08821.pdf)    | EMNLP 2021 |  [link](https://github.com/princeton-nlp/SimCSE)  |
