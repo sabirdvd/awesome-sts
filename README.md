@@ -1,4 +1,4 @@
-# Review: Deep Learning for Sentence Semantic Similarity
+# awesome-sts 
 
 <!-- [![update - 23-Aug-2023](https://img.shields.io/badge/update-4--Aug--2023-2ea44f)](https://) --> 
 
